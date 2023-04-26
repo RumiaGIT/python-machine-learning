@@ -8,3 +8,8 @@ Topics:
 - Naive Bayes
 - Logistic Regression
 - Support Vector Machines
+- Neural Networks
+- Linear Regression
+- Unsupervised Learning
+- K-means Clustering
+- Principal Component Analysis
